@@ -40,8 +40,12 @@ function Percentage() {
           </div>
           {/* Progresso barra */}
           <div className="col-md-6">
-            {Data.map((e) => (
-              <div style={{ display: "flex" }} className="text-white mb-1">
+            {Data.map((e, index) => (
+              <div
+                key={index}
+                style={{ display: "flex" }}
+                className="text-white mb-1"
+              >
                 <p style={{ width: 150 }}>{e.label}</p>
                 <div
                   style={{ backgroundColor: "#fff", width: e?.w }}

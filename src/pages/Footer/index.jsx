@@ -12,81 +12,81 @@ import { BsFillBookmarkFill } from "react-icons/bs";
 function Footer() {
   return (
     <div style={{ backgroundColor: "#000" }}>
-      <div class="container text-white">
-        <footer class="py-5">
-          <div class="row">
-            <div class="col-6 col-md-2 mb-3">
+      <div className="container text-white">
+        <footer className="py-5">
+          <div className="row">
+            <div className="col-6 col-md-2 mb-3">
               <h5>Buzzzzzzz</h5>
-              <ul class="nav flex-column">
-                <li class="nav-item mb-2">
-                  <a href="#" class="nav-link p-0 text-muted">
+              <ul className="nav flex-column">
+                <li className="nav-item mb-2">
+                  <a href="#" className="nav-link p-0 text-muted">
                     Quem somos
                   </a>
                 </li>
-                <li class="nav-item mb-2">
-                  <a href="#" class="nav-link p-0 text-muted">
+                <li className="nav-item mb-2">
+                  <a href="#" className="nav-link p-0 text-muted">
                     Nosso mercado
                   </a>
                 </li>
-                <li class="nav-item mb-2">
-                  <a href="#" class="nav-link p-0 text-muted">
+                <li className="nav-item mb-2">
+                  <a href="#" className="nav-link p-0 text-muted">
                     Blog
                   </a>
                 </li>
-                <li class="nav-item mb-2">
-                  <a href="#" class="nav-link p-0 text-muted">
+                <li className="nav-item mb-2">
+                  <a href="#" className="nav-link p-0 text-muted">
                     Contato
                   </a>
                 </li>
-                <li class="nav-item mb-2">
-                  <a href="#" class="nav-link p-0 text-muted">
+                <li className="nav-item mb-2">
+                  <a href="#" className="nav-link p-0 text-muted">
                     seja Buzzzzzzz
                   </a>
                 </li>
               </ul>
             </div>
 
-            <div class="col-6 col-md-2 mb-3">
+            <div className="col-6 col-md-2 mb-3">
               <h5>Investidores</h5>
-              <ul class="nav flex-column">
-                <li class="nav-item mb-2">
-                  <a href="#" class="nav-link p-0 text-muted">
+              <ul className="nav flex-column">
+                <li className="nav-item mb-2">
+                  <a href="#" className="nav-link p-0 text-muted">
                     Tese do investidor
                   </a>
                 </li>
-                <li class="nav-item mb-2">
-                  <a href="#" class="nav-link p-0 text-muted">
+                <li className="nav-item mb-2">
+                  <a href="#" className="nav-link p-0 text-muted">
                     Seja investidor
                   </a>
                 </li>
-                <li class="nav-item mb-2">
-                  <a href="#" class="nav-link p-0 text-muted">
+                <li className="nav-item mb-2">
+                  <a href="#" className="nav-link p-0 text-muted">
                     Nossos investimentos
                   </a>
                 </li>
               </ul>
             </div>
 
-            <div class="col-6 col-md-2 mb-3">
+            <div className="col-6 col-md-2 mb-3">
               <h5>Startups</h5>
-              <ul class="nav flex-column">
-                <li class="nav-item mb-2">
-                  <a href="#" class="nav-link p-0 text-muted">
+              <ul className="nav flex-column">
+                <li className="nav-item mb-2">
+                  <a href="#" className="nav-link p-0 text-muted">
                     Tese de investimento
                   </a>
                 </li>
-                <li class="nav-item mb-2">
-                  <a href="#" class="nav-link p-0 text-muted">
+                <li className="nav-item mb-2">
+                  <a href="#" className="nav-link p-0 text-muted">
                     Faça aplicação
                   </a>
                 </li>
-                <li class="nav-item mb-2">
-                  <a href="#" class="nav-link p-0 text-muted">
+                <li className="nav-item mb-2">
+                  <a href="#" className="nav-link p-0 text-muted">
                     Termo de investimento
                   </a>
                 </li>
-                <li class="nav-item mb-2">
-                  <a href="#" class="nav-link p-0 text-muted">
+                <li className="nav-item mb-2">
+                  <a href="#" className="nav-link p-0 text-muted">
                     Termo de follow on
                   </a>
                 </li>
