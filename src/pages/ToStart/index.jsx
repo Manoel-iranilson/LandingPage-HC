@@ -1,6 +1,7 @@
 import React from "react";
-// import jayz from "../../assets/Jayz.png";
+import jayz from "../../assets/jayz.png";
 import zzz from "../../assets/zzz.png";
+
 import {
   BsFillPatchCheckFill,
   BsFillSuitHeartFill,
@@ -30,7 +31,7 @@ function ToStart() {
             </div>
           </div>
           <div className="col-md-3" style={{ marginTop: 150 }}>
-            {/* <img className="img-fluid" src={jayz} /> */}
+            <img className="img-fluid" src={jayz} />
           </div>
           <div className="col-md-5 " style={{ marginTop: 200 }}>
             <div style={{ marginLeft: 150 }}>
